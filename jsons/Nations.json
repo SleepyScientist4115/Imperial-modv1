@@ -1,15 +1,15 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
+		"name": "The Concordian Empire",
+		"leaderName": "Francis",
+		"adjective": ["Imperial"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
+		"declaringWar": "",
 		"attacked": "You want to play? Very funny!",
 		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
 		"introduction": "As superior galactic entities, you are not worthy of our attention.",
