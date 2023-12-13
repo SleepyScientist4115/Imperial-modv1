@@ -1,5 +1,35 @@
 [
 	{
+		"name": "Imperial slinger",
+		"unitType": "Archery",
+		"uniqueTo": "The Concordian Empire",
+		"replaces": "Archer",
+		"movement": 2,
+		"strength": 6,
+		"rangedStrength": 10,
+		"cost": 50,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"upgradesTo": "Composite Bowman",
+		"promotions": ["Morale","Home Sweet Home"],
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Imperial Brute",
+		"unitType": "Sword",
+		"uniqueTo": "The Concordian Empire"
+		"replaces": "Warrior"
+		"movement": 2,
+		"strength": 10,
+		"cost": 50,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "A powerful brute."}
+		]
+	},
 		"name": "Imperial heavy gunner",
 		"unitType": "Ranged",
 		"uniqueTo": "The Concordian Empire",
