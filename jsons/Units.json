@@ -28,6 +28,22 @@
 		"attackSound": "nonmetalhit",
 	},
 	{
+		"name": "Bhemoth",
+		"unitType": "Bomber",
+		"uniqueTo": "The Concordian Empire",
+		"replaces": "Stealth Bomber",
+		"movement": 2,
+		"strength": 200,
+		"rangedStrength": 120,
+		"range": 50,
+		"cost": 800,
+		"requiredTech": "Stealth",
+		"requiredResource": "Aluminum","Oil","Oil",
+		"promotions": ["Logistics","Siege III"],
+		"uniques": ["Damage taken from interception reduced by [100]%", "Cannot be carried by [Carrier] units", "[+4] Sight", "Can see over obstacles"],
+		"attackSound": "bombing"
+	},
+	{
 		"name": "Imperial heavy gunner",
 		"unitType": "Ranged",
 		"uniqueTo": "The Concordian Empire",
