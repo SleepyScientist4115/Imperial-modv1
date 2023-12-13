@@ -2,7 +2,7 @@
 	{
 		"name": "Imperial heavy gunner",
 		"unitType": "Ranged",
-		"uniqueTo": "Imperial",
+		"uniqueTo": "The Concordian Empire",
 		"replaces": "Machine Gun",
 		"movement": 2,
 		"strength": 90,
