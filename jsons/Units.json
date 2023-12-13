@@ -28,7 +28,7 @@
 		"attackSound": "nonmetalhit",
 	},
 	{
-		"name": "Bhemoth",
+		"name": "Behemoth",
 		"unitType": "Bomber",
 		"uniqueTo": "The Concordian Empire",
 		"replaces": "Stealth Bomber",
@@ -38,7 +38,7 @@
 		"range": 50,
 		"cost": 800,
 		"requiredTech": "Stealth",
-		"requiredResource": "[2]Aluminum",
+		"requiredResource": "Aluminum",
 		"promotions": ["Logistics","Siege III"],
 		"uniques": ["Damage taken from interception reduced by [100]%", "Cannot be carried by [Carrier] units", "[+4] Sight", "Can see over obstacles"],
 		"attackSound": "bombing"
