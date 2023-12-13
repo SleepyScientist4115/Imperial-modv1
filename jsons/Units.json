@@ -28,8 +28,8 @@
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "A powerful brute."}
-		]
-	},
+		},
+	{
 		"name": "Imperial heavy gunner",
 		"unitType": "Ranged",
 		"uniqueTo": "The Concordian Empire",
