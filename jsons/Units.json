@@ -26,9 +26,7 @@
 		"upgradesTo": "Swordsman",
 		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
 		"attackSound": "nonmetalhit",
-        "civilopediaText": [
-			{"text": "A powerful brute."}
-		},
+	},
 	{
 		"name": "Imperial heavy gunner",
 		"unitType": "Ranged",
