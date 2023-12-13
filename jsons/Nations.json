@@ -27,8 +27,8 @@
 		"afterPeace": "Continued war would have lead to our shared destruction.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [198,29,29],
-		"innerColor": [0,0,0],
+		"outerColor": [0,0,0],
+		"innerColor": [198,29,29],
 		"unique": "Imperial_might",
 		"cities": ["Sacrea","Pollux","Atla","Ardea","St. Silas","St. Francis","Athendos","St. Amiliuss","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
