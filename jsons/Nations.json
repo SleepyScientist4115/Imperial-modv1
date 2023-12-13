@@ -12,12 +12,12 @@
 		"declaringWar": "You will be crushed under Imperial might!",
 		"attacked": "You will be slaughtered for your actions!",
 		"defeated": "I have failed not only my people but my gods... may your rule be merciful.",
-		"introduction": ".",
+		"introduction": "Salutations my frined! I wish for peace either by diplomacy or might.",
 		
 		"neutralHello": "Hello my friend!",
-		"neutralLetsHearIt": ["What is your proposal.","What do you say?","We."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralLetsHearIt": ["What is your proposal.","What do you say?","We are willing to hear your offer."],
+		"neutralNo": ["We cannot accept your offer.","We decline your offer.","We refuse."],
+		"neutralYes": ["Very good.","It is a pleasure to have done this deal.","We are glad to have accepted this ofer."],
 
 		"hateHello": "Get out of my sight!",
 		"hateLetsHearIt": ["Speak!","Make it quick!","What do you want now."],
