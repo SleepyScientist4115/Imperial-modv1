@@ -68,7 +68,7 @@
 		"strength": 120,
 		"cost": 500,
 		"requiredTech": "Mobile Tactics",
-		"Promotions": ["Morale","Home Sweet Home","Besiege","Ambush II"],
+		"promotions": ["Morale","Home Sweet Home","Besiege","Ambush II"],
 		"uniques": ["Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
 	}
