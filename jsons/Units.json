@@ -7,6 +7,7 @@
 		"movement": 2,
 		"strength": 6,
 		"rangedStrength": 10,
+		"range": 3
 		"cost": 50,
 		"requiredTech": "Archery",
 		"obsoleteTech": "Construction",
@@ -40,7 +41,7 @@
 		"cost": 800,
 		"requiredTech": "Stealth",
 		"requiredResource": "Aluminum",
-		"promotions": ["Logistics","Siege III"],
+		"promotions": ["Logistics","Siege III","Air repair","Bombardment III"],
 		"uniques": ["Damage taken from interception reduced by [100]%", "Cannot be carried by [Carrier] units", "[+4] Sight", "Can see over obstacles"],
 		"attackSound": "bombing"
 	},
@@ -55,7 +56,20 @@
 		"range": 2,
 		"cost": 425,
 		"requiredTech": "Ballistics",
-		"promotions": ["Morale","Home Sweet Home"],
+		"promotions": ["Morale","Home Sweet Home","Ambush II"],
 		"attackSound": "shipguns"
+	},
+	{
+		"name": "IFV squad",
+		"unitType": "Gunpowder",
+		"uniqueTo": "The Concordian Empire",
+		"replaces": "Mechanized Infantry",
+		"movement": 4,
+		"strength": 120,
+		"cost": 500,
+		"requiredTech": "Mobile Tactics",
+		"Promotions": ["Morale","Home Sweet Home","Besiege","Ambush II"],
+		"uniques": ["Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
 	}
 ]
