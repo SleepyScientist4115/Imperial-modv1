@@ -41,7 +41,7 @@
 		"cost": 800,
 		"requiredTech": "Stealth",
 		"requiredResource": "Aluminum",
-		"promotions": ["Logistics","Siege III","Air repair","Bombardment III"],
+		"promotions": ["Logistics","Siege III","Air Repair","Bombardment III"],
 		"uniques": ["Damage taken from interception reduced by [100]%", "Cannot be carried by [Carrier] units", "[+4] Sight", "Can see over obstacles"],
 		"attackSound": "bombing"
 	},
