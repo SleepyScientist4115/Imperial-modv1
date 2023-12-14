@@ -24,6 +24,7 @@
 		"cost": 50,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
+		"promotions": ["Morale","Home Sweet Home"],
 		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
 		"attackSound": "nonmetalhit",
 	},
