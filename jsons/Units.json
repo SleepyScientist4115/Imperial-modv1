@@ -103,7 +103,7 @@
 		"name": "IFV squad",
 		"unitType": "Gunpowder",
 		"uniqueTo": "The Concordian Empire",
-		"replaces": "Mechanized Infantry",
+		"replaces": "",
 		"movement": 4,
 		"strength": 120,
 		"cost": 500,
