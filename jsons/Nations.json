@@ -3,7 +3,7 @@
 		"name": "The Concordian Empire",
 		"leaderName": "Francis",
 		"adjective": ["Imperial"],
-		"startBias": ["Snow","Tundra"],
+		"startBias": ["Forest","Tundra"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "",
