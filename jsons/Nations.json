@@ -29,7 +29,8 @@
 
 		"outerColor": [0,0,0],
 		"innerColor": [198,29,29],
-		"unique": "Imperial_might",
+		"uniqueName": "Impeeial might",
+		"uniques": ["[+1 Production] from every [Strategic resource]","Heavier more powerful units which are more costtly to build"],
 		"cities": ["Sacrea","Pollux","Atla","Ardea","St. Silas","St. Francis","Athendos","St. Amiliuss","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
