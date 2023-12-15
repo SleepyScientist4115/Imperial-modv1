@@ -98,18 +98,5 @@
 		"requiredTech": "Pharmaceuticals",
 		"promotions": ["Morale","Home Sweet Home","Ambush II"],
 		"attackSound": "shot"
-	},
-	{
-		"name": "IFV squad",
-		"unitType": "Gunpowder",
-		"uniqueTo": "The Concordian Empire",
-		"replaces": "",
-		"movement": 4,
-		"strength": 120,
-		"cost": 500,
-		"requiredTech": "Mobile Tactics",
-		"promotions": ["Morale","Home Sweet Home","Besiege","Ambush II"],
-		"uniques": ["Never appears as a Barbarian unit"],
-		"attackSound": "tankshot"
 	}
 ]
