@@ -51,8 +51,8 @@
 		"uniqueTo": "The Concordian Empire",
 		"replaces": "Machine Gun",
 		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 75,
+		"strength": 150,
+		"rangedStrength": 90,
 		"range": 2,
 		"cost": 425,
 		"requiredTech": "Ballistics",
@@ -70,6 +70,18 @@
 		"requiredTech": "Radar",
 		"promotions": ["Morale","Home Sweet Home","Besiege"],
 		"uniques": ["May Paradrop up to [8] tiles from inside friendly territory", "Never appears as a Barbarian unit"],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Heavy Infantry",
+		"unitType": "Gunpowder",
+		"uniqueTo": "The Concordian Empire",
+		"replaces": "Marine",
+		"movement": 2,
+		"strength": 120,
+		"cost": 450,
+		"requiredTech": "Pharmaceuticals",
+		"promotions": ["Morale","Home Sweet Home","Ambush II"],
 		"attackSound": "shot"
 	},
 	{
