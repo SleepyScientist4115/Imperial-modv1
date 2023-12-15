@@ -46,6 +46,21 @@
 		"attackSound": "bombing"
 	},
 	{
+		"name": "Field Gun",
+		"unitType": "Gunpowder",
+		"uniqueTo": "The Concordian Empire",
+		"replaces": "Anti-Tank Gun",
+		"movement": 2,
+		"strength": 50,
+		"rangedStrength": 100,
+		"range": 2,
+		"cost": 325,
+		"requiredTech": "Combined Arms",
+		"upgradesTo": "Helicopter Gunship",
+		"uniques": ["[+150]% Strength <vs [Armored] units>", "Never appears as a Barbarian unit"],
+		"attackSound": "machinegun"
+	},
+	{
 		"name": "Imperial heavy gunner",
 		"unitType": "Ranged",
 		"uniqueTo": "The Concordian Empire",
