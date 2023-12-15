@@ -60,6 +60,17 @@
 		"attackSound": "shipguns"
 	},
 	{
+		"name": "Light infantry",
+		"unitType": "Gunpowder",
+		"movement": 3,
+		"strength": 80,
+		"cost": 400,
+		"requiredTech": "Radar",
+		"promotions": ["Morale","Home Sweet Home","Besiege"],
+		"uniques": ["May Paradrop up to [8] tiles from inside friendly territory", "Never appears as a Barbarian unit"],
+		"attackSound": "shot"
+	},
+	{
 		"name": "IFV squad",
 		"unitType": "Gunpowder",
 		"uniqueTo": "The Concordian Empire",
