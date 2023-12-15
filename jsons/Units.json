@@ -57,7 +57,7 @@
 		"cost": 325,
 		"requiredTech": "Combined Arms",
 		"upgradesTo": "Helicopter Gunship",
-		"uniques": ["[+150]% Strength <vs [Armored] units>", "Never appears as a Barbarian unit"],
+		"uniques": ["[+100]% Strength <vs [Armored] units>", "Never appears as a Barbarian unit"],
 		"attackSound": "machinegun"
 	},
 	{
