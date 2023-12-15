@@ -60,7 +60,7 @@
 		"attackSound": "shipguns"
 	},
 	{
-		"name": "Light infantry",
+		"name": "Light Infantry",
 		"unitType": "Gunpowder",
 		"movement": 3,
 		"strength": 80,
