@@ -31,6 +31,7 @@
 		"innerColor": [198,29,29],
 		"uniqueName": "Imperial might",
 		"uniques": ["[+1 Production] from every [Strategic resource]","[-25]% maintenance costs <for [Land] units>","Great General provides double combat bonus", "[+20]% Strength <for [All] units> <during a Golden Age>",
+			"Double quantity of [Iron] produced","Double quantity of [Oil] produced","Double quantity of [Uranium] produced",
 			"Founded off the values of military might and glory for their Empire soldiers fight harder and citizens work faster to keep its eternal glory upheld"],
 		"cities": ["Sacrea","Pollux","Atla","Ardea","St. Silas","St. Francis","Athendos","St. Amiliuss","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
