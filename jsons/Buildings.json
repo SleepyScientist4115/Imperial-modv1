@@ -18,6 +18,7 @@
 		"uniqueTo": "The Concordian Empire",
 		"cost": 0,
 		"hurryCostModifier": 0,
-		"science": 10000,
+   "culture": 1000,
+		"science": 100000,
 	}
 ]
