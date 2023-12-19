@@ -13,13 +13,11 @@
 		"requiredTech": "Horseback Riding"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"name": "Nexus",
+		"replaces": "Monument",
+		"uniqueTo": "The Concordian Empire",
+		"cost": 0,
+		"hurryCostModifier": 0,
+		"science": 10000,
 	}
 ]
