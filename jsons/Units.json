@@ -30,6 +30,47 @@
 		"attackSound": "nonmetalhit",
 	},
 	{
+		"name": "Greatswordsman",
+		"unitType": "Sword",
+		"uniqueTo": "The Concordian Empire"
+		"replaces": "Longswordsman",
+		"movement": 2,
+		"strength": 30,
+		"cost": 140,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"promotions": ["Morale","Home Sweet Home"],
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Imperial Skirmisher ",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 24,
+		"cost": 150,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Gatling Cannon",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "The Concordian Empire"
+		"replaces": "Gatling Gun",
+		"range": 2,
+		"movement": 2,
+		"strength": 45,
+		"rangedStrength": 50,
+		"cost": 275,
+		"requiredTech": "Industrialization",
+		"upgradesTo": "Machine Gun",
+		"obsoleteTech": "Ballistics",
+		"attackSound": "machinegun"
+	},
+	{
 		"name": "Behemoth",
 		"unitType": "Bomber",
 		"uniqueTo": "The Concordian Empire",
