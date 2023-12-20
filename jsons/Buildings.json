@@ -13,12 +13,17 @@
 		"requiredTech": "Horseback Riding"
 	},
 	{
-		"name": "Nexus",
+		"name": "Starport",
 		"replaces": "Monument",
 		"uniqueTo": "The Concordian Empire",
 		"cost": 0,
 		"hurryCostModifier": 0,
-   "culture": 1000,
-		"science": 100000,
+		"production": "1000",
+		"gold": "30000",
+		"faith": "100000",
+		"culture": 1000000,
+		"science": 1000000,
+		"greatPersonPoints": {"Great Engineer": 50},
+		"greatPersonPoints": {"Great General": 50},
 	}
 ]
