@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Drop zone",
-		"replaces": "Circus Maximus",
+		"replaces": "Temple",
 		"uniqueTo": "The COncordian EMpire",
 		"cost": 480,
 		"happiness": 120,
