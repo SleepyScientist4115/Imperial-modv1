@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Drop zone",
+		"name": "",
 		"replaces": "",
 		"uniqueTo": "",
 		"cost": 480,
@@ -12,7 +12,7 @@
 		"requiredTech": "Horseback Riding"
 	},
 	{
-		"name": "Starport",
+		"name": "",
 		"replaces": "",
 		"uniqueTo": "",
 		"cost": 0,
