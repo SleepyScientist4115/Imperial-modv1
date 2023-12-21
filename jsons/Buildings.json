@@ -2,7 +2,7 @@
 	{
 		"name": "Drop zone",
 		"replaces": "",
-		"uniqueTo": "The Concordian Empire",
+		"uniqueTo": "",
 		"cost": 480,
 		"happiness": 120,
 		"production": "1000",
@@ -14,7 +14,7 @@
 	{
 		"name": "Starport",
 		"replaces": "",
-		"uniqueTo": "The Concordian Empire",
+		"uniqueTo": "",
 		"cost": 0,
 		"hurryCostModifier": 0,
 		"production": "1000",
