@@ -142,7 +142,7 @@
 		"strength": 120,
 		"cost": 450,
 		"requiredTech": "Pharmaceuticals",
-		"promotions": ["Morale","Home Sweet Home","Ambush II","AmbushI"],
+		"promotions": ["Morale","Home Sweet Home","Ambush II","Ambush I"],
 		"attackSound": "shot"
 	}
 ]
