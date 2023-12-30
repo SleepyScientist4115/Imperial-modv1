@@ -103,7 +103,7 @@
 		"range": 2,
 		"cost": 425,
 		"requiredTech": "Ballistics",
-		"promotions": ["Morale","Home Sweet Home","Ambush II","AmbushI"],
+		"promotions": ["Morale","Home Sweet Home","Ambush II","Ambush I"],
 		"uniques": ["[40]% chance to intercept air attacks","[+100]% Strength <vs [Helicopter] units>"],
 		"attackSound": "shipguns"
 	},
