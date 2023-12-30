@@ -99,10 +99,25 @@
 		"movement": 2,
 		"strength": 150,
 		"rangedStrength": 90,
+		"interceptRange": 2,
 		"range": 2,
 		"cost": 425,
 		"requiredTech": "Ballistics",
-		"promotions": ["Morale","Home Sweet Home","Ambush II"],
+		"promotions": ["Morale","Home Sweet Home","Ambush II","AmbushI"],
+		"uniques": ["[40]% chance to intercept air attacks","[+100]% Strength <vs [Helicopter] units>"],
+		"attackSound": "shipguns"
+	},
+	{
+		"name": "Transport ship",
+		"unitType": "Melee Water",
+		"uniqueTo": "The Concordian Empire",
+		"replaces": "Destroyer",
+		"movement": 7,
+		"strength": 40,
+		"interceptRange": 3,
+		"cost": 350,
+		"requiredTech": "Combustion",
+		"uniques": ["Can see invisible [Submarine] units", "[40]% chance to intercept air attacks","Can carry [6] [Ground] units","May withdraw before melee ([80]%)","[+100]% Strength <vs [Submarine] units>"],
 		"attackSound": "shipguns"
 	},
 	{
@@ -114,7 +129,7 @@
 		"strength": 80,
 		"cost": 400,
 		"requiredTech": "Radar",
-		"promotions": ["Morale","Home Sweet Home","Besiege"],
+		"promotions": ["Morale","Home Sweet Home","Besiege","Sentry","Woodsman"],
 		"uniques": ["May Paradrop up to [8] tiles from inside friendly territory", "Never appears as a Barbarian unit"],
 		"attackSound": "shot"
 	},
@@ -127,7 +142,7 @@
 		"strength": 120,
 		"cost": 450,
 		"requiredTech": "Pharmaceuticals",
-		"promotions": ["Morale","Home Sweet Home","Ambush II"],
+		"promotions": ["Morale","Home Sweet Home","Ambush II","AmbushI"],
 		"attackSound": "shot"
 	}
 ]
