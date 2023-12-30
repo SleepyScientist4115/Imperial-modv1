@@ -14,6 +14,19 @@
 		"requiredTech": "Horseback Riding"
 	},
 	{
+		"name": "Citadel",
+		"isNationalWonder": true,
+		"replaces": "Palace",
+		"uniqueTo": "The Concordian Empire",
+		"production": 6,
+		"science": 3,
+		"gold": 3,
+		"culture": 1,
+		"cityStrength": 4,
+		"cost": 1,
+		"uniques": ["Indicates the capital city"]
+	},
+	{
 		"name": "Breeders",
 		"replaces": "Aqueduct",
 		"uniqueTo": "Aliens",
