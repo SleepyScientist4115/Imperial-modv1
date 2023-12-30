@@ -4,7 +4,7 @@
 		"leaderName": "Francis",
 		"adjective": ["Imperial"],
 		"startBias": ["Forest","Tundra"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "",
 		"startIntroPart2": "",
@@ -30,7 +30,7 @@
 		"outerColor": [0,0,0],
 		"innerColor": [198,29,29],
 		"uniqueName": "Imperial might",
-		"uniques": ["[+2 Production] from every [Strategic resource]","[+1 Production] from every [Bonus resource]","[+1 Production] from every [Luxury resource]","[-25]% maintenance costs <for [Land] units>","Great General provides double combat bonus", "[+20]% Strength <for [All] units> <during a Golden Age>",
+		"uniques": ["[+2 Production] from every [Strategic resource]","[+1 Production] from every [Bonus resource]","[+1 Production] from every [Luxury resource]","[-50]% maintenance costs <for [Land] units>","Great General provides double combat bonus", "[+30]% Strength <for [All] units> <during a Golden Age>",
 			"Double quantity of [Iron] produced","Double quantity of [Oil] produced","Double quantity of [Uranium] produced",
 			"Founded off the values of military might and glory for their Empire soldiers fight harder and citizens work faster to keep its eternal glory upheld"],
 		"cities": ["Sacrea","Pollux","Atla","Ardea","St. Silas","St. Francis","Athendos","St. Amiliuss","Eris Citadel",
