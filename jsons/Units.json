@@ -130,6 +130,7 @@
 		"cost": 450,
 		"requiredTech": "Pharmaceuticals",
 		"promotions": ["Morale","Home Sweet Home","Ambush II","Ambush I"],
+		"uniques": ["Can carry [2] [Missile] units"],
 		"attackSound": "shot"
 	}
 ]
