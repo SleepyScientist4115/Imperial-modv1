@@ -121,6 +121,21 @@
 		"attackSound": "shot"
 	},
 	{
+		"name": "ICBM",
+		"unitType": "Atomic Bomber",
+		"uniqueTo": "The Concordian Empire",
+		"replaces": "Nuclear Missile",
+		"movement": 1,
+		"strength": 300,
+		"rangedStrength": 600,
+		"range": 24,
+		"cost": 2000,
+		"requiredTech": "Advanced Ballistics",
+		"uniques": ["Nuclear weapon of Strength [4]", "Only available <if [Manhattan Project] is constructed>",
+			"Blast radius [5]", "Consumes [2] [Uranium]"],
+		"attackSound": "nuke"
+	},
+	{
 		"name": "Heavy Infantry",
 		"unitType": "Gunpowder",
 		"uniqueTo": "The Concordian Empire",
