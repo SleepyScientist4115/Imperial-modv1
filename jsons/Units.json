@@ -132,7 +132,7 @@
 		"cost": 2000,
 		"requiredTech": "Advanced Ballistics",
 		"uniques": ["Nuclear weapon of Strength [4]", "Only available <if [Manhattan Project] is constructed>",
-			"Blast radius [4]", "Consumes [2] [Uranium]"],
+			"Blast radius [4]", "Consumes [2] [Uranium]","Self-destructs when attacking"],
 		"attackSound": "nuke"
 	},
 	{
