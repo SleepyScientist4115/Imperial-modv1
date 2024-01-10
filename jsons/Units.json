@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Imperial slinger",
+		"name": "Slinger(I)",
 		"unitType": "Archery",
 		"uniqueTo": "The Concordian Empire",
 		"replaces": "Archer",
@@ -16,7 +16,7 @@
 		"attackSound": "arrow"
 	},
 	{
-		"name": "Imperial Brute",
+		"name": "Brute(I)",
 		"unitType": "Sword",
 		"uniqueTo": "The Concordian Empire"
 		"replaces": "Warrior"
@@ -43,6 +43,19 @@
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Skirmisher(I)",
+		"unitType": "Gunpowder",
+		"uniqueTo": "The Concordian Empire"
+		"replaces": "Rifleman",
+		"movement": 2,
+		"strength": 34,
+		"cost": 225,
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"attackSound": "shot"
 	},
 	{
 		"name": "Gatling Cannon",
@@ -92,7 +105,7 @@
 		"attackSound": "machinegun"
 	},
 	{
-		"name": "Imperial heavy gunner",
+		"name": "Heavy gunner(I)",
 		"unitType": "Ranged",
 		"uniqueTo": "The Concordian Empire",
 		"replaces": "Machine Gun",
