@@ -17,7 +17,7 @@
 		"name": "Citadel",
 		"isNationalWonder": true,
 		"replaces": "Palace",
-		"uniqueTo": "The Concordian Empire",
+		"uniqueTo": "The Renatus Empire",
 		"production": 6,
 		"science": 3,
 		"gold": 3,
