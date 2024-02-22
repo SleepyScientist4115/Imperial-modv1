@@ -2,7 +2,7 @@
 	{
 		"name": "Slinger(I)",
 		"unitType": "Archery",
-		"uniqueTo": "The Concordian Empire",
+		"uniqueTo": "The Renatus Empire",
 		"replaces": "Archer",
 		"movement": 2,
 		"strength": 6,
@@ -18,7 +18,7 @@
 	{
 		"name": "Brute(I)",
 		"unitType": "Sword",
-		"uniqueTo": "The Concordian Empire"
+		"uniqueTo": "The Renatus Empire"
 		"replaces": "Warrior"
 		"movement": 2,
 		"strength": 10,
@@ -32,7 +32,7 @@
 	{
 		"name": "Greatswordsman",
 		"unitType": "Sword",
-		"uniqueTo": "The Concordian Empire"
+		"uniqueTo": "The Renatus Empire"
 		"replaces": "Longswordsman",
 		"movement": 2,
 		"strength": 30,
@@ -47,7 +47,7 @@
 	{
 		"name": "Skirmisher(I)",
 		"unitType": "Gunpowder",
-		"uniqueTo": "The Concordian Empire"
+		"uniqueTo": "The Renatus Empire"
 		"replaces": "Rifleman",
 		"movement": 3,
 		"strength": 34,
@@ -61,7 +61,7 @@
 	{
 		"name": "Gatling Cannon",
 		"unitType": "Ranged Gunpowder",
-		"uniqueTo": "The Concordian Empire"
+		"uniqueTo": "The Renatus Empire"
 		"replaces": "Gatling Gun",
 		"range": 2,
 		"movement": 2,
@@ -77,7 +77,7 @@
 	{
 		"name": "Behemoth",
 		"unitType": "Bomber",
-		"uniqueTo": "The Concordian Empire",
+		"uniqueTo": "The Renatus Empire",
 		"replaces": "Stealth Bomber",
 		"movement": 2,
 		"strength": 200,
@@ -93,7 +93,7 @@
 	{
 		"name": "Field Gun",
 		"unitType": "Gunpowder",
-		"uniqueTo": "The Concordian Empire",
+		"uniqueTo": "The Renatus Empire",
 		"replaces": "Anti-Tank Gun",
 		"movement": 2,
 		"strength": 50,
@@ -108,7 +108,7 @@
 	{
 		"name": "Heavy gunner(I)",
 		"unitType": "Ranged",
-		"uniqueTo": "The Concordian Empire",
+		"uniqueTo": "The Renatus Empire",
 		"replaces": "Machine Gun",
 		"movement": 2,
 		"strength": 150,
@@ -124,7 +124,7 @@
 	{
 		"name": "Light Infantry",
 		"unitType": "Gunpowder",
-		"uniqueTo": "The Concordian Empire",
+		"uniqueTo": "The Renatus Empire",
 		"replaces": "Paratrooper",
 		"movement": 3,
 		"strength": 80,
@@ -137,7 +137,7 @@
 	{
 		"name": "ICBM",
 		"unitType": "Atomic Bomber",
-		"uniqueTo": "The Concordian Empire",
+		"uniqueTo": "The Renatus Empire",
 		"replaces": "Nuclear Missile",
 		"movement": 1,
 		"strength": 300,
@@ -152,7 +152,7 @@
 	{
 		"name": "Heavy Infantry",
 		"unitType": "Gunpowder",
-		"uniqueTo": "The Concordian Empire",
+		"uniqueTo": "The Renatus Empire",
 		"replaces": "Marine",
 		"movement": 2,
 		"strength": 120,
