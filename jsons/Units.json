@@ -133,21 +133,7 @@
 		"promotions": ["Morale","Home Sweet Home","Besiege","Sentry","Woodsman"],
 		"uniques": ["May Paradrop up to [8] tiles from inside friendly territory", "Never appears as a Barbarian unit"],
 		"attackSound": "shot"
-	},
-	{
-		"name": "ICBM",
-		"unitType": "Atomic Bomber",
-		"uniqueTo": "The Renatus Empire",
-		"replaces": "Nuclear Missile",
-		"movement": 1,
-		"strength": 300,
-		"rangedStrength": 600,
-		"range": 24,
-		"cost": 2000,
-		"requiredTech": "Advanced Ballistics",
-		"uniques": ["Nuclear weapon of Strength [4]", "Only available <if [Manhattan Project] is constructed>",
-			"Blast radius [3]", "Consumes [2] [Uranium]","Self-destructs when attacking"],
-		"attackSound": "nuke"
+	
 	},
 	{
 		"name": "Heavy Infantry",
